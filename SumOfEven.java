@@ -1,3 +1,4 @@
+//find the sum of even numbers//
 import java.io.DataInputStream;
 import java.io.IOException;
 
