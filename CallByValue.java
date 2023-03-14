@@ -1,6 +1,6 @@
 import java.io.*;
 import java.lang.*;
-public class CallByValue {
+public class CallByValue{
     public static void main(String args[]){
         try{
             System.out.println("Enter two number to be swapped");
